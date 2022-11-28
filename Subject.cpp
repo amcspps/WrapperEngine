@@ -14,5 +14,5 @@ int Subject::f3(int arg1, int arg2, int arg3) {
 }
 
 Subject::Subject() {
-	std::cout << "Subject created";
+	std::cout << "Subject created" << std::endl;
 }
